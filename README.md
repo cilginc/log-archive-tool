@@ -17,7 +17,5 @@ A bash script to log archive files with tar.gz.
     ./log-archive.sh
     ```
 ## Usage
-    ```
     log-archive.sh /path/to/log /path/to/output
-    ```
 This project is part of [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps projects.
