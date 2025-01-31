@@ -26,4 +26,3 @@ tar -czf "$ARCHIVE_DIR/$ARCHIVE_FILE" --directory "$LOG_DIR" . 2>/dev/null
 
 # Output for user
 echo "Archived logs from $LOG_DIR to $ARCHIVE_DIR/$ARCHIVE_FILE"
-
